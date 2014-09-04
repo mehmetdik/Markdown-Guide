@@ -1,5 +1,4 @@
 ## Markdown`da kullanaçağımız temeller 
-
 ===================
 
 ### Başlık
@@ -15,11 +14,13 @@ Başlık büyüklüyü secerken h1´den h6'ya kadar sayıda `#` yazmanız yeterl
 ###### h6 Başlık
 ```
 
-#### Çalışma hali
+_Çalışma hali:_
 
 # h1 Başlık
 ## h2 Başlık
 ### h3 Başlık
 #### h4 Başlık
 ##### h5 Başlık
-###### h6 Başlıks
+###### h6 Başlık
+
+------------
