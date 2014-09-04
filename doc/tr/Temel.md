@@ -1,5 +1,4 @@
-## Markdown`da kullanaçağımız temeller 
-===================
+## Markdown`da kullanaçağımız temeller
 
 ### Başlık
 
@@ -24,10 +23,21 @@ _Çalışma hali:_
 ##### h5 Başlık
 ###### h6 Başlık
 
+HTML:
+
+```html
+	<h1>h1 Başlık</h1>
+	<h2>h2 Başlık</h2>
+	<h3>h3 Başlık</h3>
+	<h4>h4 Başlık</h4>
+	<h5>h5 Başlık</h5>
+	<h6>h6 Başlık</h6>
+```
+
 ------------
 
 ## Yazı tipileri
-================
+
 
 ### Bold
 
@@ -41,6 +51,14 @@ _Çalışma hali:_
 
 **Bold yazı tipi**
 
+HTML:
+
+```html
+	<strong>Bold yazı tipi</strong>
+```
+
+================
+
 ### Italics
 
 Bu yazı tipi için cümlenin ve ya kelimin ön ve son kısmına `_` eklenmesi yeterlidir:
@@ -52,6 +70,14 @@ _Çalışma hali:_
 
 _Italics yazı tipi_
 
+HTML:
+
+```html
+	<em>Italics yazı tipi</em>
+```
+
+================
+
 ### strikethrough
 
 Bu yazı tipi için cümlenin ve ya kelimin ön ve son kısmına `~~` eklenmesi yeterlidir:
@@ -62,3 +88,11 @@ code:
 _Çalışma hali:_
 
 ~~strikethrough yazı tipi~~
+
+================
+
+HTML:
+
+```html
+	
+```
