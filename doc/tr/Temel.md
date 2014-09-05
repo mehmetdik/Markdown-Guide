@@ -91,8 +91,24 @@ _Çalışma hali:_
 
 ================
 
+### Yatay Çizgiler
+
+```
+	* `___`: üç alt cizgi
+	* `---`: üç tire
+	* `***`: üç yıldız , _3 tane yazılmaları yeterlidir_
+```
+
+_Çalışma hali:_
+
+___
+
+---
+
+***
+
 HTML:
 
 ```html
-	
+	<hr>
 ```
